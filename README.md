@@ -1,7 +1,7 @@
 # TokyoNight - Spicetify Theme
 
-![MAIN](main.png)
-![PLAYLIST](playlist.png)
+![MAIN](TokyoNight/main.png)
+![PLAYLIST](TokyoNight/playlist.png)
 
 Custom Spotify Theme for Spicetify
 
