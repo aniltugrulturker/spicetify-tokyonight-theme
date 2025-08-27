@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TokyoNight",
+    "description": "TokyoNight",
+    "preview": "TokyoNight/main.png",
+    "readme": "TokyoNight/README.md",
+    "usercss": "TokyoNight/user.css",
+    "schemes": "TokyoNight/color.ini",
+    "authors": [
+      {
+        "name": "Anıl Tuğrul Türker",
+        "url": "https://github.com/aniltugrulturker"
+      }
+    ],
+    "tags": ["latest"]
+  }
+]
