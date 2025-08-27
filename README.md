@@ -15,6 +15,7 @@ Custom Spotify Theme for Spicetify
 - `color.ini` → Theme color settings
 - `user.css` → Custom CSS for UI modifications
 - `main.png` → Screenshot of the theme (optional)
+- `playlist.png`
 
 ---
 
