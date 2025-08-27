@@ -1,6 +1,10 @@
 # TokyoNight - Spicetify Theme
 
+![MAIN](main.png)
+![PLAYLIST](playlist.png)
+
 Custom Spotify Theme for Spicetify
+
 
 ## 📂 Theme Files
 
@@ -15,3 +19,7 @@ Custom Spotify Theme for Spicetify
 1. **Copy the theme folder to Spicetify themes directory:**
 ```bash
 cp -r TokyoNight ~/.config/spicetify/Themes/
+
+spicetify config current_theme TokyoNight
+
+spicetify apply
